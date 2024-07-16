@@ -1,4 +1,4 @@
-package com.santander.santander_dev_week_2024;
+package com.santander.application;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
